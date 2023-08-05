@@ -1,0 +1,4 @@
+file:src/main/resources/features/F02_Login.feature:4:12
+file:src/main/resources/features/F01_Register.feature:4
+file:src/main/resources/features/F07_followUs.feature:4:8:12:16
+file:src/main/resources/features/%20F04_Search.feature:12:13:14:24:25:26

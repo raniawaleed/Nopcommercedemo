@@ -1,0 +1,385 @@
+-------------------------------------------------------------------------------
+Test set: org.example.runner.runner
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 13, Errors: 0, Skipped: 0, Time elapsed: 2.673 s <<< FAILURE! - in org.example.runner.runner
+org.example.runner.runner.runScenario  Time elapsed: 0.181 s  <<< FAILURE!
+io.cucumber.testng.UndefinedStepException: 
+The step 'user go to search box' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("user go to search box")
+public void user_go_to_search_box() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user enter the product {string}")
+public void user_enter_the_product(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("click on search button")
+public void click_on_search_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("each result contains the search word {string}")
+public void each_result_contains_the_search_word(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("URL will change")
+public void url_will_change() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+org.example.runner.runner.runScenario  Time elapsed: 0.051 s  <<< FAILURE!
+io.cucumber.testng.UndefinedStepException: 
+The step 'user go to search box' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("user go to search box")
+public void user_go_to_search_box() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user enter the product {string}")
+public void user_enter_the_product(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("click on search button")
+public void click_on_search_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("each result contains the search word {string}")
+public void each_result_contains_the_search_word(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("URL will change")
+public void url_will_change() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+org.example.runner.runner.runScenario  Time elapsed: 0.039 s  <<< FAILURE!
+io.cucumber.testng.UndefinedStepException: 
+The step 'user go to search box' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("user go to search box")
+public void user_go_to_search_box() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user enter the product {string}")
+public void user_enter_the_product(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("click on search button")
+public void click_on_search_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("each result contains the search word {string}")
+public void each_result_contains_the_search_word(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("URL will change")
+public void url_will_change() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+org.example.runner.runner.runScenario  Time elapsed: 0.021 s  <<< FAILURE!
+io.cucumber.testng.UndefinedStepException: 
+The step 'user go to search box' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("user go to search box")
+public void user_go_to_search_box() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user enter the product {string}")
+public void user_enter_the_product(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("click on search button")
+public void click_on_search_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("click on the product in search result")
+public void click_on_the_product_in_search_result() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("sku shown in this page contains the {string} that you are using in search")
+public void sku_shown_in_this_page_contains_the_that_you_are_using_in_search(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+org.example.runner.runner.runScenario  Time elapsed: 0.089 s  <<< FAILURE!
+io.cucumber.testng.UndefinedStepException: 
+The step 'user go to search box' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("user go to search box")
+public void user_go_to_search_box() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user enter the product {string}")
+public void user_enter_the_product(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("click on search button")
+public void click_on_search_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("click on the product in search result")
+public void click_on_the_product_in_search_result() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("sku shown in this page contains the {string} that you are using in search")
+public void sku_shown_in_this_page_contains_the_that_you_are_using_in_search(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+org.example.runner.runner.runScenario  Time elapsed: 0.064 s  <<< FAILURE!
+io.cucumber.testng.UndefinedStepException: 
+The step 'user go to search box' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("user go to search box")
+public void user_go_to_search_box() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user enter the product {string}")
+public void user_enter_the_product(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("click on search button")
+public void click_on_search_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("click on the product in search result")
+public void click_on_the_product_in_search_result() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("sku shown in this page contains the {string} that you are using in search")
+public void sku_shown_in_this_page_contains_the_that_you_are_using_in_search(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+org.example.runner.runner.runScenario  Time elapsed: 0.032 s  <<< FAILURE!
+io.cucumber.testng.UndefinedStepException: 
+The step 'user go to register page' and 9 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("user go to register page")
+public void user_go_to_register_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user select gender type")
+public void user_select_gender_type() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user enter first name {string}")
+public void user_enter_first_name(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user enter last name {string}")
+public void user_enter_last_name(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user enter date of birth")
+public void user_enter_date_of_birth() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user enter email {string} field")
+public void user_enter_email_field(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user fills Password field {string}")
+public void user_fills_password_field(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user fills Confirm Password Field {string}")
+public void user_fills_confirm_password_field(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user clicks on register button")
+public void user_clicks_on_register_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("success message is displayed")
+public void success_message_is_displayed() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+org.example.runner.runner.runScenario  Time elapsed: 0.054 s  <<< FAILURE!
+io.cucumber.testng.UndefinedStepException: 
+The step 'userr go to login page' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("userr go to login page")
+public void userr_go_to_login_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("userr login with valid email {string}")
+public void userr_login_with_valid_email(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("userr  should enter valid password {string}")
+public void userr_should_enter_valid_password(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("userr press on login button")
+public void userr_press_on_login_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("userr login to the system successfully")
+public void userr_login_to_the_system_successfully() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+org.example.runner.runner.runScenario  Time elapsed: 0.031 s  <<< FAILURE!
+io.cucumber.testng.UndefinedStepException: 
+The step 'userr go to login page' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("userr go to login page")
+public void userr_go_to_login_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("userr login with invalid email {string}")
+public void userr_login_with_invalid_email(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("userr enter valiid {string}")
+public void userr_enter_valiid(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("userr press on login button")
+public void userr_press_on_login_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("userr could not login to the system")
+public void userr_could_not_login_to_the_system() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+org.example.runner.runner.runScenario  Time elapsed: 0.012 s  <<< FAILURE!
+io.cucumber.testng.UndefinedStepException: 
+The step 'user opens facebook link' and 1 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@When("user opens facebook link")
+public void user_opens_facebook_link() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("{string} is opened in new tab")
+public void is_opened_in_new_tab(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+org.example.runner.runner.runScenario  Time elapsed: 0.023 s  <<< FAILURE!
+io.cucumber.testng.UndefinedStepException: 
+The step 'user opens twitter link' and 1 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@When("user opens twitter link")
+public void user_opens_twitter_link() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("{string} is opened in new tab")
+public void is_opened_in_new_tab(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+org.example.runner.runner.runScenario  Time elapsed: 0.018 s  <<< FAILURE!
+io.cucumber.testng.UndefinedStepException: 
+The step 'user opens rss link' and 1 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@When("user opens rss link")
+public void user_opens_rss_link() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("{string} is opened in new tab")
+public void is_opened_in_new_tab(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+org.example.runner.runner.runScenario  Time elapsed: 0.008 s  <<< FAILURE!
+io.cucumber.testng.UndefinedStepException: 
+The step 'user opens youtube link' and 1 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@When("user opens youtube link")
+public void user_opens_youtube_link() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("{string} is opened in new tab")
+public void is_opened_in_new_tab(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+

@@ -1,0 +1,9 @@
+org\example\setDef\D02_loginStepDef.class
+org\example\setDef\D07_followUsStepDef.class
+org\example\setDef\D01_registerStepDef.class
+org\example\page\P01_register.class
+org\example\setDef\Hooks.class
+org\example\setDef\D04_searchStepDef.class
+org\example\page\P03_homePage.class
+org\example\page\P02_login.class
+org\example\runner\runner.class

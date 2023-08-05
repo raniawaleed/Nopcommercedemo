@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.766" tests="13" skipped="0" failures="13" errors="0">
+<testcase classname="F04_Search|user could find the product using search" name="user could search using product name - Example #1.1" time="0.015">
+<failure/>
+<system-out><![CDATA[
+Given user go to search box.................................................undefined
+When user enter the product "book"..........................................skipped
+And click on search button..................................................skipped
+Then each result contains the search word "book"............................skipped
+And URL will change.........................................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="F04_Search|user could find the product using search" name="user could search using product name - Example #1.2" time="0.016">
+<failure/>
+<system-out><![CDATA[
+Given user go to search box.................................................undefined
+When user enter the product "laptop"........................................skipped
+And click on search button..................................................skipped
+Then each result contains the search word "laptop"..........................skipped
+And URL will change.........................................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="F04_Search|user could find the product using search" name="user could search using product name - Example #1.3" time="0.005">
+<failure/>
+<system-out><![CDATA[
+Given user go to search box.................................................undefined
+When user enter the product "nike"..........................................skipped
+And click on search button..................................................skipped
+Then each result contains the search word "nike"............................skipped
+And URL will change.........................................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="F04_Search|user could find the product using search" name="user could search for product using sku - Example #1.1" time="0.006">
+<failure/>
+<system-out><![CDATA[
+Given user go to search box.................................................undefined
+When user enter the product "SCI_FAITH".....................................skipped
+And click on search button..................................................skipped
+And click on the product in search result...................................skipped
+Then sku shown in this page contains the "SCI_FAITH" that you are using in search.skipped
+]]></system-out>
+</testcase>
+<testcase classname="F04_Search|user could find the product using search" name="user could search for product using sku - Example #1.2" time="0.022">
+<failure/>
+<system-out><![CDATA[
+Given user go to search box.................................................undefined
+When user enter the product "APPLE_CAM".....................................skipped
+And click on search button..................................................skipped
+And click on the product in search result...................................skipped
+Then sku shown in this page contains the "APPLE_CAM" that you are using in search.skipped
+]]></system-out>
+</testcase>
+<testcase classname="F04_Search|user could find the product using search" name="user could search for product using sku - Example #1.3" time="0.008">
+<failure/>
+<system-out><![CDATA[
+Given user go to search box.................................................undefined
+When user enter the product "SF_PRO_11".....................................skipped
+And click on search button..................................................skipped
+And click on the product in search result...................................skipped
+Then sku shown in this page contains the "SF_PRO_11" that you are using in search.skipped
+]]></system-out>
+</testcase>
+<testcase classname="F01_register|users could register with new accounts" name="guest user could register with valid data successfully" time="0.006">
+<failure/>
+<system-out><![CDATA[
+Given user go to register page..............................................undefined
+When user select gender type................................................skipped
+And user enter first name "rania automation"................................skipped
+And user enter last name "tester"...........................................skipped
+And user enter date of birth................................................skipped
+And user enter email "tests@example.com" field..............................skipped
+And user fills Password field "P@ssw0rd"....................................skipped
+And user fills Confirm Password Field "P@ssw0rd"............................skipped
+And user clicks on register button..........................................skipped
+Then success message is displayed...........................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="F02_Login | users could use login functionality to use their accounts" name="user could login with valid email and password" time="0.014">
+<failure/>
+<system-out><![CDATA[
+Given userr go to login page................................................undefined
+When userr login with valid email "tests@example.com".......................skipped
+And userr  should enter valid password "P@ssw0rd"...........................skipped
+And userr press on login button.............................................skipped
+Then userr login to the system successfully.................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="F02_Login | users could use login functionality to use their accounts" name="user could login with invalid email and password" time="0.017">
+<failure/>
+<system-out><![CDATA[
+Given userr go to login page................................................undefined
+When userr login with invalid email "wrong@example.com".....................skipped
+And userr enter valiid "P@ssw0rd"...........................................skipped
+And userr press on login button.............................................skipped
+Then userr could not login to the system....................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="F07_followUs | users could open followUs links" name="user opens facebook link" time="0.002">
+<failure/>
+<system-out><![CDATA[
+When user opens facebook link...............................................undefined
+Then "https://www.facebook.com/nopCommerce" is opened in new tab............skipped
+]]></system-out>
+</testcase>
+<testcase classname="F07_followUs | users could open followUs links" name="user opens twitter link" time="0.011">
+<failure/>
+<system-out><![CDATA[
+When user opens twitter link................................................undefined
+Then "https://twitter.com/nopCommerce" is opened in new tab.................skipped
+]]></system-out>
+</testcase>
+<testcase classname="F07_followUs | users could open followUs links" name="user opens rss link" time="0.004">
+<failure/>
+<system-out><![CDATA[
+When user opens rss link....................................................undefined
+Then "https://demo.nopcommerce.com/new-online-store-is-open" is opened in new tab.skipped
+]]></system-out>
+</testcase>
+<testcase classname="F07_followUs | users could open followUs links" name="user opens youtube link" time="0.002">
+<failure/>
+<system-out><![CDATA[
+When user opens youtube link................................................undefined
+Then "https://www.youtube.com/user/nopCommerce" is opened in new tab........skipped
+]]></system-out>
+</testcase>
+</testsuite>
